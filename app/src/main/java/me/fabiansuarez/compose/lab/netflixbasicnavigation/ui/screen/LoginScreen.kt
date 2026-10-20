@@ -206,7 +206,7 @@ fun LoginScreen(
 
                 // ── Forgot password ──────────────────────────────────────────
                 Text(
-                    text = "¿Olvidaste la contraseña?",
+                    text = "¿0lvidaste la contraseña?",
                     color = NetflixWhite,
                     fontSize = 14.sp,
                     modifier = Modifier.clickable {}
